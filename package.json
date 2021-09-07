@@ -1,0 +1,22 @@
+{
+  "name": "node-cooldown",
+  "version": "0.0.1",
+  "description": "This stopps users from spamming code",
+  "main": "cooldownSystem.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1Euro7Cent/cooldown.git"
+  },
+  "keywords": [
+    "cooldown"
+  ],
+  "author": "1euro7cent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1Euro7Cent/cooldown/issues"
+  },
+  "homepage": "https://github.com/1Euro7Cent/cooldown#readme"
+}
