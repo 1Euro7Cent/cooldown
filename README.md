@@ -4,7 +4,7 @@ npm i node-cooldown
 ```
 ## usage
 ```js
-const Cooldown = require('./cooldownSystem')
+const Cooldown = require('node-cooldown')
 
 var cooldown = new Cooldown(500) // 500 milliseconds of cooldown
 

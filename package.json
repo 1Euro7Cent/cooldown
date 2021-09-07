@@ -1,10 +1,10 @@
 {
   "name": "node-cooldown",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This stopps users from spamming code",
   "main": "cooldownSystem.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
