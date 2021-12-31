@@ -1,6 +1,6 @@
 {
   "name": "node-cooldown",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "This stopps users from spamming code",
   "main": "cooldownSystem.js",
   "scripts": {
